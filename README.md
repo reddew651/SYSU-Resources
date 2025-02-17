@@ -50,7 +50,9 @@
 - **体育馆通行码**  
   https://github.com/wangyk55/FAKE-GYM-PASS  
 - **期末考卷与复习**  
-  https://github.com/sysuexam/SYSU-Exam  
+  https://github.com/sysuexam/SYSU-Exam
+- **抢课**  
+  https://github.com/Siriussee/sysu-course-selector?tab=readme-ov-file
 
 ---
 
